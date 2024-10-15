@@ -2,9 +2,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png">
 </p>
 
-<h2 align="center">
+<!-- <h2 align="center">
   <img align="right" alt="coding" src="">
-</h2>
+</h2> -->
 
 <br><br>
 <h2 align="center" style="font-family: 'Poppins', sans-serif;">Hello world <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> I'm Mokarram Shahban 😄</h2>
