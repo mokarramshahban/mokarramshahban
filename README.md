@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-  <img align="right" alt="coding" src="https://github.com/J-B-Mugundh/J-B-Mugundh/blob/main/Github-Tech-Stack-Banner.gif">
+  <img align="right" alt="coding" src="">
 </h2>
 
 <br><br>
