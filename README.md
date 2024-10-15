@@ -86,7 +86,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/MokarramShahban/MokarramShahban/blob/output/github-snake.svg" alt="snake">
+  <img src="https://github.com/mokarramshahban/mokarramshahban/blob/main/github-snake.svg" alt="snake">
 </p>
 
 <p align="center"><b>Have some fun!</b></p>
@@ -98,9 +98,9 @@
 <p align="center"><em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more!</b></em> <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="40"></p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mokarram-shahban/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
-<a href="mailto:mokarram.shahban@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;       
-<a href="https://www.github.com/MokarramShahban" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>   
+<a href="https://www.linkedin.com/in/mokarram-shahban-516921260/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
+<a href="mailto:mokarram.developer@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;       
+<a href="https://github.com/mokarramshahban" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>   
 </p>
 
 <br>
