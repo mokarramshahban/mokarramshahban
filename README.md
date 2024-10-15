@@ -1,7 +1,7 @@
 # 👋 Hello! I’m Mokarram Shahban  
 🎓 **3rd-Year B.Tech CSE Student | Web and Software Technologies Enthusiast**
 
-![Welcome GIF](https://media.giphy.com/media/l0MYEWUVWl0zBFHnO/giphy.gif)  
+![Welcome GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2l1cWJsYTA0amVwd2NiOXlobnduaHBxbTM0eHkzZHMya3N3eTNiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)  
 
 My journey in the tech world began in the early phases of my engineering studies, where I discovered my passion for web and software technologies. Over the years, I have immersed myself in hands-on projects and internships, developing proficiency in:
 
