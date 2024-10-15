@@ -28,9 +28,9 @@
 
 - 📝 Explore my portfolio at [My Portfolio](#)
 
-- 💬 Ask me about **JavaScript, React.js, Node.js, MongoDB, Git & GitHub**
+- 💬 Ask me about **JavaScript | React.js | Node.js | Express.js | MongoDB | .NET | PHP | Laravel | React Native | Redux | HTML | CSS | Git & GitHub**
 
-- 📫 Mail me at **mokarram.shahban@gmail.com**
+- 📫 Mail me at **mokarram.developer@gmail.com**
 
 <br>
 
