@@ -8,7 +8,7 @@
 
 <br><br>
 <h2 align="center" style="font-family: 'Poppins', sans-serif;">Hello world <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> I'm Mokarram Shahban 😄</h2>
-<h4 align="center" style="font-family: 'Poppins', sans-serif;">A 3rd-Year Student pursuing B.Tech CSE (Computer Science Engineering) at Khalsa College of Engineering & Technology</h4>
+<h4 align="center" style="font-family: 'Poppins', sans-serif;">🌟 Passionate about transforming ideas into reality through code and embracing the journey of a software developer!</h4>
 <br><br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=1000&size=40&lines=Full-Stack+Web+Developer;Hackathon+Participant;Open+Source+Contributor;Tech+Explorer;&center=true&width=500&height=60"></a>
@@ -114,4 +114,3 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="36" height="30"/>
 </div>
-
