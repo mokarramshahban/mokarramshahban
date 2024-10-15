@@ -75,11 +75,7 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=MokarramShahban&layout=compact&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" alt="Mokarram Shahban" />
 </p>
 
-<br><br>
-
-[![An image of @mokarramshahban's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mokarramshahban)](https://holopin.io/@mokarramshahban)
-
-<br><br>
+<br>
 
 <p align="center"><b>Profile Views</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BMokarramShahban%7D/count.svg" alt="visitor badge"/></p>
